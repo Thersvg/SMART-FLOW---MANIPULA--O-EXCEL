@@ -1,0 +1,1 @@
+pyinstaller -w --onefile --icon=logo.ico SMARTFLOW-MASTER.py
